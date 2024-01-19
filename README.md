@@ -1,1 +1,7 @@
-# Tarlet1.github.io
+# Timothy Arlet    
+
+## Introduction 
+
+## Current projects 
+
+## Links
