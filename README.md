@@ -6,4 +6,8 @@ My name is Timothy Wyatt Arlet. I am a hard working and motivated man, with conf
 
 ## Current projects 
 
+* Hello World: Java console application 
+
+* Hello World: Android app
+
 ## Links
