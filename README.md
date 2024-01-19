@@ -13,3 +13,7 @@ My name is Timothy Wyatt Arlet. I am a hard working and motivated man, with conf
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/timothy-arlet-3363622ab/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, ect. 
+>
+> Every line (blank or not) of a blockquote begins with '>', followed by a space.
