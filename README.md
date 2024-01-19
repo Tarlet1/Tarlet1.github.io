@@ -11,3 +11,5 @@ My name is Timothy Wyatt Arlet. I am a hard working and motivated man, with conf
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/timothy-arlet-3363622ab/)
